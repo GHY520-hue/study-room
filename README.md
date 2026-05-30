@@ -4,6 +4,10 @@
 
 ![StudyWithMe AI](https://images.unsplash.com/photo-1504544750208-dc0358e63f7f?w=1920&q=80)
 
+## 🌐 在线访问
+
+访问项目：**https://study-room.1759009381.workers.dev/**
+
 ## ✨ 功能特点
 
 - 🎨 **沉浸式场景** - 多种学习场景可选（清晨窗边、雨天咖啡店、深夜图书馆、海边书房）
@@ -38,10 +42,11 @@ npm run build
 ## 🛠️ 技术栈
 
 - **React 18** - 用户界面
-- **Vite 5** - 构建工具
+- **Vite 6** - 构建工具
 - **Tailwind CSS** - 样式设计
 - **Lucide React** - 图标库
 - **React Context** - 状态管理
+- **Cloudflare Pages** - 部署平台
 
 ## 📁 项目结构
 
@@ -77,6 +82,8 @@ MIT License - 欢迎学习和交流
 **GHY520-hue**
 
 - GitHub: [@GHY520-hue](https://github.com/GHY520-hue)
+- 项目仓库：https://github.com/GHY520-hue/study-room
+- 在线访问：https://study-room.1759009381.workers.dev/
 
 ---
 
