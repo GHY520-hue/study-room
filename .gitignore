@@ -31,3 +31,9 @@ logs/
 # Audio files (keep public folder but ignore large files if needed)
 # public/*.mp3
 # public/*.wav
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
